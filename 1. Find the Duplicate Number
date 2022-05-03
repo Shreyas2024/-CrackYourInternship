@@ -4,7 +4,7 @@ There is only one repeated number in nums, return this repeated number.
 
 You must solve the problem without modifying the array nums and uses only constant extra space.*/
 
-Approach:1 - Sorting
+Approach:1 - Sorting (Runntime Error)
 
 class Solution {
 public:
